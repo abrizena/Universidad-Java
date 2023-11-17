@@ -1,0 +1,10 @@
+/home/antonio/Cursos/Java/JDBC/Leccion06/ManejoJDBC/src/main/java/datos/UsuarioDaoJDBC.java
+/home/antonio/Cursos/Java/JDBC/Leccion06/ManejoJDBC/src/main/java/datos/Conexion.java
+/home/antonio/Cursos/Java/JDBC/Leccion06/ManejoJDBC/src/main/java/datos/PersonaDaoJDBC.java
+/home/antonio/Cursos/Java/JDBC/Leccion06/ManejoJDBC/src/main/java/domain/UsuarioDTO.java
+/home/antonio/Cursos/Java/JDBC/Leccion06/ManejoJDBC/src/main/java/test/TestMySqlJDBC.java
+/home/antonio/Cursos/Java/JDBC/Leccion06/ManejoJDBC/src/main/java/domain/PersonaDTO.java
+/home/antonio/Cursos/Java/JDBC/Leccion06/ManejoJDBC/src/main/java/test/TestManejoUsuarios.java
+/home/antonio/Cursos/Java/JDBC/Leccion06/ManejoJDBC/src/main/java/test/TestManejoPersonas.java
+/home/antonio/Cursos/Java/JDBC/Leccion06/ManejoJDBC/src/main/java/datos/PersonaDAO.java
+/home/antonio/Cursos/Java/JDBC/Leccion06/ManejoJDBC/src/main/java/datos/UsuarioDAO.java
