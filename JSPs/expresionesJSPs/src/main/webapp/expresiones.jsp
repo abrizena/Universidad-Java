@@ -15,7 +15,7 @@
         <h1>JSP con Expresiones</h1>
         Concatenacion: <%= "Saludos " + "JSP"%>
         <br/>
-        Operacion Matematica <%= 2 * 3 / 2 %>
+        Operacion Matematica: <%= 2 * 3 / 2 %>
         <br/>
         Session id: <%= session.getId()%>
         <br/>
